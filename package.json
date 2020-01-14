@@ -1,0 +1,52 @@
+{
+  "name": "eslint-config-oliver-react-typescript",
+  "version": "1.0.0",
+  "description": "Oliver TypeScript Style - React - ESLint Shareable Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverit/eslint-config-oliver-react-typescript.git"
+  },
+  "keywords": [
+    "eslint",
+    "oliver"
+  ],
+  "author": "René van Mil <rene.van.mil@oliver-it.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverit/eslint-config-oliver-react-typescript/issues"
+  },
+  "homepage": "https://github.com/oliverit/eslint-config-oliver-react-typescript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-oliver-base-typescript": "^1.0.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "react": "^16.12.0",
+    "typescript": "^3.7.4"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-oliver-base-typescript": "^1.0.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "confusing-browser-globals": "^1.0.9"
+  }
+}
