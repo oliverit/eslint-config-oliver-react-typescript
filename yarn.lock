@@ -331,10 +331,10 @@ eslint-config-airbnb-base@^14.0.0:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-oliver-base-typescript@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-oliver-base-typescript/-/eslint-config-oliver-base-typescript-1.0.0.tgz#5c49f27f33aef6dd1224c76a9fa98b9729198bd6"
-  integrity sha512-076rD7KvJ/pSUcrNv7ZQt9oHHcx0BPM/poEE1YrbKEhUseOM2vp43vfXSV53Udwxw+5jz2OtNJJ8FaBwPJF8gQ==
+eslint-config-oliver-base-typescript@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-oliver-base-typescript/-/eslint-config-oliver-base-typescript-1.0.1.tgz#45b1869e150b48adf5568072bdfa423319123664"
+  integrity sha512-4SVgMjSZwGI2KftTEdYfAm6XLpDgKS2S6movd+if2AAUlY6w6/ouh3vjfvpHcihjd6duFQK1S7kV3L1GxDuAbw==
 
 eslint-import-resolver-node@^0.3.2:
   version "0.3.3"
