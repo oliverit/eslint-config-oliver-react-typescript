@@ -1,5 +1,4 @@
 {
-  "include": ["index.js"],
 	"compilerOptions": {
 		"module": "commonjs",
 		"esModuleInterop": true,
@@ -15,5 +14,6 @@
 				"node_modules/*"
 			]
 		}
-	}
+	},
+	"include": [".eslintrc.js", "index.js"]
 }
