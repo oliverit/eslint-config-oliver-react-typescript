@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-oliver-react-typescript",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Oliver TypeScript Style - React - ESLint Shareable Config",
   "main": "index.js",
   "scripts": {
