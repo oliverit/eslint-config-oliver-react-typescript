@@ -28,6 +28,8 @@ module.exports = {
 			.filter(name => name !== 'self'), // The 'self' global is used by workers, so we remove it from the default restricted globals list
 		'react-hooks/rules-of-hooks': 'error',
 		'react-hooks/exhaustive-deps': 'error',
+		'react/jsx-uses-react': 'off',
+		'react/react-in-jsx-scope': 'off',
 		'react/jsx-closing-bracket-location': ['error', {
 			nonEmpty: 'after-props',
 			selfClosing: 'line-aligned'
